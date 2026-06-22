@@ -142,8 +142,8 @@
   <div class="box">
     <h2>👥 Equipe técnica</h2>
     <ul>
-      <li>Daniel Motta Mariano Gonçalves — Psicólogo clínico</li>
-      <li>Andressa de Oliveira — Enfermeira, mestre em inovações tecnológicas em saúde com ênfase em saúde mental</li>
+      <li>Lívia Minuzzi - Enfermeira, especialista em NR1 e em saúde mental pela Unicamp, cursando enfermagem em segurança do trabalho</li>
+      <li>Andressa de Oliveira — Enfermeira, mestre em inovações tecnológicas em saúde com ênfase em segurança do paciente</li>
     </ul>
   </div>
 
