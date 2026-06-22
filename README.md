@@ -139,6 +139,14 @@
     </p>
   </div>
 
+  <div class="box">
+    <h2>👥 Equipe técnica</h2>
+    <ul>
+      <li>Daniel Motta Mariano Gonçalves — Psicólogo clínico</li>
+      <li>Andressa de Oliveira — Enfermeira, mestre em inovações tecnológicas em saúde com ênfase em saúde mental</li>
+    </ul>
+  </div>
+
   <div class="cta">
     <h2>Sua empresa está realmente em conformidade com a NR-1?</h2>
     <p>Solicite uma análise inicial e evite riscos ocultos</p>
